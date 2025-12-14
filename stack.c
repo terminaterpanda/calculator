@@ -4,7 +4,7 @@
 #include <string.h>
 
 
-printf("program started")
+int as = 0;
 
 Stack * create_stack(int initial_size)
 {
